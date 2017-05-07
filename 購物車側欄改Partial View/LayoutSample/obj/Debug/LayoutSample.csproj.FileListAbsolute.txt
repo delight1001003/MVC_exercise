@@ -1,0 +1,80 @@
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\csc.exe
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\vbc.exe
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\LayoutSample.dll.config
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\LayoutSample.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\LayoutSample.pdb
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Antlr3.Runtime.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Newtonsoft.Json.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Helpers.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Mvc.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Optimization.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Razor.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.WebPages.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.WebPages.Razor.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\WebGrease.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Helpers.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Mvc.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Optimization.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.Razor.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.WebPages.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\System.Web.WebPages.Razor.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Antlr3.Runtime.pdb
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\bin\Newtonsoft.Json.xml
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\obj\Debug\LayoutSample.csprojResolveAssemblyReference.cache
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\obj\Debug\LayoutSample.dll
+C:\Users\delig\Desktop\老師給的下載檔\Demo_106.05.01\Session1\Session1\LayoutSample\LayoutSample\obj\Debug\LayoutSample.pdb
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\csc.exe
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\System.Collections.Immutable.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\vbc.exe
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\VBCSCompiler.exe
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\roslyn\VBCSCompiler.exe.config
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\LayoutSample.dll.config
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\LayoutSample.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\LayoutSample.pdb
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Antlr3.Runtime.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Microsoft.Web.Infrastructure.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Newtonsoft.Json.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Helpers.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Mvc.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Optimization.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Razor.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.WebPages.Deployment.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.WebPages.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.WebPages.Razor.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\WebGrease.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Helpers.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Mvc.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Optimization.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.Razor.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.WebPages.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.WebPages.Deployment.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\System.Web.WebPages.Razor.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Antlr3.Runtime.pdb
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\bin\Newtonsoft.Json.xml
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\obj\Debug\LayoutSample.csprojResolveAssemblyReference.cache
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\obj\Debug\LayoutSample.dll
+C:\BuildSchool\MVC_homework\購物車範本側欄改用Partial View_106.05.05\LayoutSample\LayoutSample\obj\Debug\LayoutSample.pdb

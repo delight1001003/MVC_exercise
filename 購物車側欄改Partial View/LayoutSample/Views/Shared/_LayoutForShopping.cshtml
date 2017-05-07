@@ -1,0 +1,35 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    @Html.Partial("_Side")
+    @*<div class="col-md-3">
+        <h3>SkillTree</h3>
+        <div class="list-group">
+            <a href="#" class="list-group-item">公開班</a>
+            <a href="#" class="list-group-item">企業包班</a>
+            <a href="#" class="list-group-item">顧問服務</a>
+        </div>
+        <h3>twMVC</h3>
+        <div class="list-group">
+            <a href="#" class="list-group-item">主題研討會</a>
+            <a href="#" class="list-group-item">週四固定聚會</a>
+        </div>
+        <h3>Dotblogs</h3>
+        <div class="list-group">
+            <a href="#" class="list-group-item">新進文章</a>
+            <a href="#" class="list-group-item">熱門文章</a>
+            <a href="#" class="list-group-item">活動合作</a>
+        </div>
+        <h3>demoshop</h3>
+        <div class="list-group">
+            <a href="#" class="list-group-item">專案承接</a>
+            <a href="#" class="list-group-item">網頁設計</a>
+            <a href="#" class="list-group-item">顧問服務</a>
+        </div>
+    </div>*@
+    <div class="col-md-9">
+        @RenderBody()
+    </div>
+</div>
