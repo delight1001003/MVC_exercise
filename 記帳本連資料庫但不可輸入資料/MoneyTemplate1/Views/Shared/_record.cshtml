@@ -1,0 +1,30 @@
+﻿@model List<MoneyTemplate1.Models.MyClass>
+
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-bordered table-hover">
+            <tr>
+                <th class="col-md-3">#</th>
+                <th class="col-md-3">類別</th>
+                <th class="col-md-3">日期</th>
+                <th class="col-md-3">金額</th>
+            </tr>
+           
+            @{int i = 0;}
+
+            @foreach(var eachRow in Model)
+            {
+                i += 1;
+                <tr>
+                    <td class="col-md-3">@i</td>
+                    <td class="col-md-3">@eachRow.Type</td>
+                    <td class="col-md-3">@eachRow.Time</td>
+                    <td class="col-md-3">@eachRow.Money</td>
+                </tr>
+            }       
+
+        </table>
+    </div>
+</div>
+
