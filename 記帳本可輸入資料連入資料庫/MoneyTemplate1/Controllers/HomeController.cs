@@ -58,6 +58,16 @@ namespace MoneyTemplate1.Controllers
 
                 myClassData.Money = data.Amounttt;
 
+                
+                if(data.Remarkkk.Length >= 15 )
+                {
+                    myClassData.Remark = data.Remarkkk.Substring(0, 15);
+                }
+                else
+                {
+                    myClassData.Remark = data.Remarkkk;
+                }
+
                 list.Add(myClassData);
             }
 
